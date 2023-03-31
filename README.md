@@ -1,2 +1,2 @@
 # Page - norman.githab.io
-## HTML, CSS.
+## HTML, CSS, Responsive Design.
